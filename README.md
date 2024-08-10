@@ -1,24 +1,7 @@
-# firebase-login
+# Firebase Dos
 
-## Project setup
-```
-npm install
-```
+Link hosting: https://fir-dos-64d9d.web.appeadmin@gmail.com  
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Usuario registrado: eadmin@gmail.com/   Password: 123456
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
