@@ -17,15 +17,26 @@
 }
 
 nav {
-  padding: 30px;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  background-color: #f8f8f8;
+  border-bottom: 1px solid #ddd;
 }
 
 nav a {
+  margin: 0 15px;
   font-weight: bold;
   color: #2c3e50;
+  text-decoration: none;
 }
 
 nav a.router-link-exact-active {
   color: #42b983;
+}
+
+nav a:hover {
+  color: #42b983;
+  text-decoration: underline;
 }
 </style>
